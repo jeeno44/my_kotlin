@@ -2,6 +2,7 @@ import java.time.Clock as cl
 
 fun main(args: Array<String>) {
     println("Hello World!")
+    println("Понятно сука!!!")
 
     var mina:Int = 100
 
